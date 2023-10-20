@@ -1,2 +1,1 @@
-# DevSecOps_sample_repo
-DevSecOps_sample_repo
+# devops-automation
